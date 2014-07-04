@@ -1,4 +1,4 @@
-package ch.squix.template.rest.ping;
+package ch.squix.sentimento.rest.ping;
 
 import java.io.UnsupportedEncodingException;
 
